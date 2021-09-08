@@ -9,6 +9,6 @@ data for 2021 : sheet_name = 'MEDIUM VARIANT' / use case = OWID covid-19 data<br
 <br>
 ### JP_prefectures.csv<br>
 population in 1<br>
-source : <a href='https://www.soumu.go.jp/main_content/000762465.xlsx'>Ministry of Internal Affairs and Communications, Japan (総務省住民基本台帳、2021年1月1日)</a><br>
+source : <a href='https://www.soumu.go.jp/main_content/000762465.xlsx'>Ministry of Internal Affairs and Communications, Japan (総務省住民基本台帳、市区町村別、年齢階級別、2021年1月1日)</a><br>
 all data : as of Jan 1, 2021
 <br>
