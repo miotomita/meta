@@ -1,0 +1,237 @@
+country_name,country_name_UN,country_name_ISO,country_name_jp,ISO2,ISO3,numeric,2020,2021
+World,WORLD,World,世界,,,900,7794798.729,7874965.73199999
+Burundi,Burundi,Burundi,ブルンジ,BI,BDI,108,11890.781,12255.429
+Comoros,Comoros,Comoros (the),コモロ,KM,COM,174,869.595,888.456
+Djibouti,Djibouti,Djibouti,ジブチ,DJ,DJI,262,988.002,1002.197
+Eritrea,Eritrea,Eritrea,エリトリア,ER,ERI,232,3546.427,3601.462
+Ethiopia,Ethiopia,Ethiopia,エチオピア,ET,ETH,231,114963.583,117876.226
+Kenya,Kenya,Kenya,ケニア,KE,KEN,404,53771.3,54985.702
+Madagascar,Madagascar,Madagascar,マダガスカル,MG,MDG,450,27691.019,28427.333
+Malawi,Malawi,Malawi,マラウイ共和国,MW,MWI,454,19129.955,19647.681
+Mauritius,Mauritius,Mauritius,モーリシャス,MU,MUS,480,1271.767,1273.428
+Mayotte,Mayotte,Mayotte,マヨット島,YT,MYT,175,272.813,279.507
+Mozambique,Mozambique,Mozambique,モザンビーク,MZ,MOZ,508,31255.435,32163.045
+Réunion,Réunion,Réunion,レユニオン島,RE,REU,638,895.308,901.696
+Rwanda,Rwanda,Rwanda,ルワンダ,RW,RWA,646,12952.209,13276.517
+Seychelles,Seychelles,Seychelles,セーシェル,SC,SYC,690,98.34,98.91
+Somalia,Somalia,Somalia,ソマリア,SO,SOM,706,15893.219,16359.5
+South Sudan,South Sudan,South Sudan,南スーダン,SS,SSD,728,11193.729,11381.377
+Uganda,Uganda,Uganda,ウガンダ,UG,UGA,800,45741,47123.533
+United Republic of Tanzania,United Republic of Tanzania,"Tanzania, the United Republic of",タンザニア,TZ,TZA,834,59734.213,61498.438
+Zambia,Zambia,Zambia,ザンビア,ZM,ZMB,894,18383.956,18920.657
+Zimbabwe,Zimbabwe,Zimbabwe,ジンバブエ,ZW,ZWE,716,14862.927,15092.171
+Angola,Angola,Angola,アンゴラ,AO,AGO,24,32866.268,33933.611
+Cameroon,Cameroon,Cameroon,カメルーン,CM,CMR,120,26545.864,27224.262
+Central African Republic,Central African Republic,Central African Republic (the),中央アフリカ共和国,CF,CAF,140,4829.764,4919.987
+Chad,Chad,Chad,チャド,TD,TCD,148,16425.859,16914.985
+Republic of the Congo,Congo,Congo (the),コンゴ共和国,CG,COG,178,5518.092,5657.017
+Democratic Republic of the Congo,Democratic Republic of the Congo,Congo (the Democratic Republic of the),コンゴ民主共和国,CD,COD,180,89561.404,92377.986
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,赤道ギニア,GQ,GNQ,226,1402.985,1449.891
+Gabon,Gabon,Gabon,ガボン,GA,GAB,266,2225.728,2278.829
+São Tomé and Principe,Sao Tome and Principe,Sao Tome and Principe,サントメ・プリンシペ,ST,STP,678,219.161,223.364
+Botswana,Botswana,Botswana,ボツワナ,BW,BWA,72,2351.625,2397.24
+eSwatini,Eswatini,Eswatini,エスワティニ,SZ,SWZ,748,1160.164,1172.369
+Lesotho,Lesotho,Lesotho,レソト,LS,LSO,426,2142.252,2159.067
+Namibia,Namibia,Namibia,ナミビア,NA,NAM,516,2540.916,2587.344
+South Africa,South Africa,South Africa,南アフリカ,ZA,ZAF,710,59308.69,60041.996
+Benin,Benin,Benin,ベナン,BJ,BEN,204,12123.198,12451.031
+Burkina Faso,Burkina Faso,Burkina Faso,ブルキナファソ,BF,BFA,854,20903.278,21497.097
+Cabo Verde,Cabo Verde,Cabo Verde,カーボベルデ,CV,CPV,132,555.988,561.901
+Ivory Coast,Côte d'Ivoire,Côte d'Ivoire,コートジボワール,CI,CIV,384,26378.275,27053.629
+Gambia,Gambia,Gambia (the),ガンビア,GM,GMB,270,2416.664,2486.937
+Ghana,Ghana,Ghana,ガーナ,GH,GHA,288,31072.945,31732.128
+Guinea,Guinea,Guinea,ギニア,GN,GIN,324,13132.792,13497.237
+Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,ギニアビサウ,GW,GNB,624,1967.998,2015.49
+Liberia,Liberia,Liberia,リベリア,LR,LBR,430,5057.677,5180.208
+Mali,Mali,Mali,マリ共和国,ML,MLI,466,20250.834,20855.724
+Mauritania,Mauritania,Mauritania,モーリタニア,MR,MRT,478,4649.66,4775.11
+Niger,Niger,Niger (the),ニジェール,NE,NER,562,24206.636,25130.81
+Nigeria,Nigeria,Nigeria,ナイジェリア,NG,NGA,566,206139.587,211400.704
+Saint Helena,Saint Helena,"Saint Helena, Ascension and Tristan da Cunha",セントヘレナ島,SH,SHN,654,6.071,6.095
+Senegal,Senegal,Senegal,セネガル,SN,SEN,686,16743.93,17196.308
+Sierra Leone,Sierra Leone,Sierra Leone,シエラレオネ,SL,SLE,694,7976.985,8141.343
+Togo,Togo,Togo,トーゴ,TG,TGO,768,8278.737,8478.242
+Algeria,Algeria,Algeria,アルジェリア,DZ,DZA,12,43851.043,44616.626
+Egypt,Egypt,Egypt,エジプト,EG,EGY,818,102334.403,104258.327
+Libya,Libya,Libya,リビア,LY,LBY,434,6871.287,6958.538
+Morocco,Morocco,Morocco,モロッコ,MA,MAR,504,36910.558,37344.787
+Sudan,Sudan,Sudan (the),スーダン,SD,SDN,729,43849.269,44909.351
+Tunisia,Tunisia,Tunisia,チュニジア,TN,TUN,788,11818.618,11935.764
+Western Sahara,Western Sahara,Western Sahara,西サハラ,EH,ESH,732,597.33,611.872
+Armenia,Armenia,Armenia,アルメニア,AM,ARM,51,2963.234,2968.128
+Azerbaijan,Azerbaijan,Azerbaijan,アゼルバイジャン,AZ,AZE,31,10139.175,10223.344
+Bahrain,Bahrain,Bahrain,バーレーン,BH,BHR,48,1701.583,1748.295
+Cyprus,Cyprus,Cyprus,キプロス,CY,CYP,196,1207.361,1215.588
+Georgia,Georgia,Georgia,ジョージア,GE,GEO,268,3989.175,3979.773
+Iraq,Iraq,Iraq,イラク,IQ,IRQ,368,40222.503,41179.351
+Israel,Israel,Israel,イスラエル,IL,ISR,376,8655.541,8789.776
+Jordan,Jordan,Jordan,ヨルダン,JO,JOR,400,10203.14,10269.022
+Kuwait,Kuwait,Kuwait,クウェート,KW,KWT,414,4270.563,4328.553
+Lebanon,Lebanon,Lebanon,レバノン,LB,LBN,422,6825.442,6769.151
+Oman,Oman,Oman,オマーン,OM,OMN,512,5106.622,5223.376
+Qatar,Qatar,Qatar,カタール,QA,QAT,634,2881.06,2930.524
+Saudi Arabia,Saudi Arabia,Saudi Arabia,サウジアラビア,SA,SAU,682,34813.867,35340.68
+Palestine,State of Palestine,"Palestine, State of",パレスチナ,PS,PSE,275,5101.416,5222.756
+Syria,Syrian Arab Republic,Syrian Arab Republic (the),シリア,SY,SYR,760,17500.657,18275.704
+Turkey,Turkey,Turkey,トルコ,TR,TUR,792,84339.067,85042.736
+United Arab Emirates,United Arab Emirates,United Arab Emirates (the),アラブ首長国連邦（UAE）,AE,ARE,784,9890.4,9991.083
+Yemen,Yemen,Yemen,イエメン,YE,YEM,887,29825.968,30490.639
+Kazakhstan,Kazakhstan,Kazakhstan,カザフスタン,KZ,KAZ,398,18776.707,18994.958
+Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,キルギス,KG,KGZ,417,6524.191,6628.347
+Tajikistan,Tajikistan,Tajikistan,タジキスタン,TJ,TJK,762,9537.642,9749.625
+Turkmenistan,Turkmenistan,Turkmenistan,トルクメニスタン,TM,TKM,795,6031.187,6117.933
+Uzbekistan,Uzbekistan,Uzbekistan,ウズベキスタン,UZ,UZB,860,33469.199,33935.765
+Afghanistan,Afghanistan,Afghanistan,アフガニスタン,AF,AFG,4,38928.341,39835.428
+Bangladesh,Bangladesh,Bangladesh,バングラデシュ,BD,BGD,50,164689.383,166303.494
+Bhutan,Bhutan,Bhutan,ブータン,BT,BTN,64,771.612,779.9
+India,India,India,インド,IN,IND,356,1380004.385,1393409.033
+Iran,Iran (Islamic Republic of),Iran (Islamic Republic of),イラン,IR,IRN,364,83992.953,85028.76
+Maldives,Maldives,Maldives,モルディブ,MV,MDV,462,540.542,543.62
+Nepal,Nepal,Nepal,ネパール,NP,NPL,524,29136.808,29674.92
+Pakistan,Pakistan,Pakistan,パキスタン,PK,PAK,586,220892.331,225199.929
+Sri Lanka,Sri Lanka,Sri Lanka,スリランカ,LK,LKA,144,21413.25,21497.306
+China,China,China,中国,CN,CHN,156,1439323.774,1444216.102
+Hong Kong S.A.R.,"China, Hong Kong SAR",Hong Kong,香港,HK,HKG,344,7496.988,7552.8
+Macao S.A.R,"China, Macao SAR",Macao,マカオ,MO,MAC,446,649.342,658.391
+Taiwan,"China, Taiwan Province of China",Taiwan (Province of China),台湾,TW,TWN,158,23816.775,23855.008
+North Korea,Dem. People's Republic of Korea,Korea (the Democratic People's Republic of),北朝鮮,KP,PRK,408,25778.815,25887.045
+Japan,Japan,Japan,日本,JP,JPN,392,126476.458,126050.796
+Mongolia,Mongolia,Mongolia,モンゴル,MN,MNG,496,3278.292,3329.282
+South Korea,Republic of Korea,Korea (the Republic of),韓国,KR,KOR,410,51269.183,51305.184
+Brunei,Brunei Darussalam,Brunei Darussalam,ブルネイ,BN,BRN,96,437.483,441.532
+Cambodia,Cambodia,Cambodia,カンボジア,KH,KHM,116,16718.971,16946.446
+Indonesia,Indonesia,Indonesia,インドネシア,ID,IDN,360,273523.621,276361.788
+Laos,Lao People's Democratic Republic,Lao People's Democratic Republic (the),ラオス,LA,LAO,418,7275.556,7379.358
+Malaysia,Malaysia,Malaysia,マレーシア,MY,MYS,458,32365.998,32776.195
+Myanmar,Myanmar,Myanmar,ミャンマー,MM,MMR,104,54409.794,54806.014
+Philippines,Philippines,Philippines (the),フィリピン,PH,PHL,608,109581.085,111046.91
+Singapore,Singapore,Singapore,シンガポール,SG,SGP,702,5850.343,5896.684
+Thailand,Thailand,Thailand,タイ,TH,THA,764,69799.978,69950.844
+East Timor,Timor-Leste,Timor-Leste,東ティモール,TL,TLS,626,1318.442,1343.875
+Vietnam,Viet Nam,Viet Nam,ベトナム,VN,VNM,704,97338.583,98168.829
+Anguilla,Anguilla,Anguilla,アンギラ,AI,AIA,660,15.002,15.125
+Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,アンティグア・バーブーダ,AG,ATG,28,97.928,98.728
+Aruba,Aruba,Aruba,アルバ,AW,ABW,533,106.766,107.195
+The Bahamas,Bahamas,Bahamas (the),バハマ,BS,BHS,44,393.248,396.914
+Barbados,Barbados,Barbados,バルバドス,BB,BRB,52,287.371,287.708
+"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",ボネール、シント・ユースタティウスおよびサバ,BQ,BES,535,26.221,26.445
+British Virgin Islands,British Virgin Islands,Virgin Islands (British),英領ヴァージン諸島,VG,VGB,92,30.237,30.423
+Cayman Islands,Cayman Islands,Cayman Islands (the),ケイマン諸島,KY,CYM,136,65.72,66.498
+Cuba,Cuba,Cuba,キューバ,CU,CUB,192,11326.616,11317.498
+Curaçao,Curaçao,Curaçao,キュラソー,CW,CUW,531,164.1,164.796
+Dominica,Dominica,Dominica,ドミニカ,DM,DMA,212,71.991,72.172
+Dominican Republic,Dominican Republic,Dominican Republic (the),ドミニカ共和国,DO,DOM,214,10847.904,10953.714
+Grenada,Grenada,Grenada,グレナダ,GD,GRD,308,112.519,113.015
+Guadeloupe,Guadeloupe,Guadeloupe,グアドループ,GP,GLP,312,400.127,400.013
+Haiti,Haiti,Haiti,ハイチ,HT,HTI,332,11402.533,11541.683
+Jamaica,Jamaica,Jamaica,ジャマイカ,JM,JAM,388,2961.161,2973.462
+Martinique,Martinique,Martinique,マルティニーク島,MQ,MTQ,474,375.265,374.743
+Montserrat,Montserrat,Montserrat,モントセラト,MS,MSR,500,4.999,4.981
+Puerto Rico,Puerto Rico,Puerto Rico,プエルトリコ,PR,PRI,630,2860.84,2828.246
+Saint Barthelemy,Saint Barthélemy,Saint Barthélemy,サン・バルテルミー島,BL,BLM,652,9.885,9.909
+Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,セントクリストファー・ネビス,KN,KNA,659,53.192,53.546
+Saint Lucia,Saint Lucia,Saint Lucia,セントルシア,LC,LCA,662,183.629,184.401
+Saint Martin,Saint Martin (French part),Saint Martin (French part),サンマルタン,MF,MAF,663,38.659,39.239
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,セントビンセント・グレナディーン,VC,VCT,670,110.947,111.269
+Sint Maarten,Sint Maarten (Dutch part),Sint Maarten (Dutch part),シント・マールテン,SX,SXM,534,42.882,43.421
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,トリニダード・トバゴ,TT,TTO,780,1399.491,1403.374
+Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands (the),タークス・カイコス諸島,TC,TCA,796,38.718,39.226
+United States Virgin Islands,United States Virgin Islands,Virgin Islands (U.S.),米領ヴァージン諸島,VI,VIR,850,104.423,104.218
+Belize,Belize,Belize,ベリーズ,BZ,BLZ,84,397.621,404.915
+Costa Rica,Costa Rica,Costa Rica,コスタリカ,CR,CRI,188,5094.114,5139.053
+El Salvador,El Salvador,El Salvador,エルサルバドル,SV,SLV,222,6486.201,6518.5
+Guatemala,Guatemala,Guatemala,グアテマラ,GT,GTM,320,17915.567,18249.868
+Honduras,Honduras,Honduras,ホンジュラス,HN,HND,340,9904.608,10062.994
+Mexico,Mexico,Mexico,メキシコ,MX,MEX,484,128932.753,130262.22
+Nicaragua,Nicaragua,Nicaragua,ニカラグア,NI,NIC,558,6624.554,6702.379
+Panama,Panama,Panama,パナマ,PA,PAN,591,4314.768,4381.583
+Argentina,Argentina,Argentina,アルゼンチン,AR,ARG,32,45195.777,45605.823
+Bolivia,Bolivia (Plurinational State of),Bolivia (Plurinational State of),ボリビア,BO,BOL,68,11673.029,11832.936
+Brazil,Brazil,Brazil,ブラジル,BR,BRA,76,212559.409,213993.441
+Chile,Chile,Chile,チリ,CL,CHL,152,19116.209,19212.362
+Colombia,Colombia,Colombia,コロンビア,CO,COL,170,50882.884,51265.841
+Ecuador,Ecuador,Ecuador,エクアドル,EC,ECU,218,17643.06,17888.474
+Falkland Islands,Falkland Islands (Malvinas),Falkland Islands (the) [Malvinas],フォークランド諸島,FK,FLK,238,3.483,3.528
+French Guiana,French Guiana,French Guiana,フランス領ギアナ,GF,GUF,254,298.682,306.45
+Guyana,Guyana,Guyana,ガイアナ,GY,GUY,328,786.559,790.329
+Paraguay,Paraguay,Paraguay,パラグアイ,PY,PRY,600,7132.53,7219.641
+Peru,Peru,Peru,ペルー,PE,PER,604,32971.846,33359.416
+Suriname,Suriname,Suriname,スリナム,SR,SUR,740,586.634,591.798
+Uruguay,Uruguay,Uruguay,ウルグアイ,UY,URY,858,3473.727,3485.152
+Venezuela,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),ベネズエラ,VE,VEN,862,28435.943,28704.947
+Ashmore and Cartier Islands,Australia,Australia,アシュモア・カルティエ諸島,AU,AUS,36,25499.881,25788.217
+New Zealand,New Zealand,New Zealand,ニュージーランド,NZ,NZL,554,4822.233,4860.642
+Fiji,Fiji,Fiji,フィジー,FJ,FJI,242,896.444,902.899
+New Caledonia,New Caledonia,New Caledonia,ニューカレドニア,NC,NCL,540,285.491,288.217
+Papua New Guinea,Papua New Guinea,Papua New Guinea,パプアニューギニア,PG,PNG,598,8947.027,9119.005
+Solomon Islands,Solomon Islands,Solomon Islands,ソロモン諸島,SB,SLB,90,686.878,703.995
+Vanuatu,Vanuatu,Vanuatu,バヌアツ,VU,VUT,548,307.15,314.464
+Guam,Guam,Guam,グアム,GU,GUM,316,168.783,170.184
+Kiribati,Kiribati,Kiribati,キリバス,KI,KIR,296,119.446,121.388
+Marshall Islands,Marshall Islands,Marshall Islands (the),マーシャル諸島,MH,MHL,584,59.194,59.618
+Federated States of Micronesia,Micronesia (Fed. States of),Micronesia (Federated States of),ミクロネシア連邦,FM,FSM,583,115.021,116.255
+Nauru,Nauru,Nauru,ナウル,NR,NRU,520,10.834,10.873
+Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands (the),北マリアナ諸島,MP,MNP,580,57.557,57.91
+Palau,Palau,Palau,パラオ,PW,PLW,585,18.092,18.174
+American Samoa,American Samoa,American Samoa,米領サモア,AS,ASM,16,55.197,55.103
+Cook Islands,Cook Islands,Cook Islands (the),クック諸島,CK,COK,184,17.564,17.572
+French Polynesia,French Polynesia,French Polynesia,フランス領ポリネシア,PF,PYF,258,280.904,282.534
+Niue,Niue,Niue,ニウエ,NU,NIU,570,1.618,1.614
+Samoa,Samoa,Samoa,サモア,WS,WSM,882,198.41,200.144
+Tokelau,Tokelau,Tokelau,トケラウ諸島,TK,TKL,772,1.35,1.368
+Tonga,Tonga,Tonga,トンガ,TO,TON,776,105.697,106.759
+Tuvalu,Tuvalu,Tuvalu,ツバル,TV,TUV,798,11.792,11.925
+Wallis and Futuna,Wallis and Futuna Islands,Wallis and Futuna,ウォリス・フツナ,WF,WLF,876,11.246,11.094
+Belarus,Belarus,Belarus,ベラルーシ,BY,BLR,112,9449.321,9442.867
+Bulgaria,Bulgaria,Bulgaria,ブルガリア,BG,BGR,100,6948.445,6896.655
+Czechia,Czechia,Czechia,チェコ,CZ,CZE,203,10708.982,10724.553
+Hungary,Hungary,Hungary,ハンガリー,HU,HUN,348,9660.35,9634.162
+Poland,Poland,Poland,ポーランド,PL,POL,616,37846.605,37797
+Moldova,Republic of Moldova,Moldova (the Republic of),モルドバ,MD,MDA,498,4033.963,4024.025
+Romania,Romania,Romania,ルーマニア,RO,ROU,642,19237.682,19127.772
+Russia,Russian Federation,Russian Federation (the),ロシア,RU,RUS,643,145934.46,145912.022
+Slovakia,Slovakia,Slovakia,スロバキア,SK,SVK,703,5459.643,5460.726
+Ukraine,Ukraine,Ukraine,ウクライナ,UA,UKR,804,43733.759,43466.822
+Channel Islands,Channel Islands,,チャンネル諸島,,,830,173.859,175.244
+Denmark,Denmark,Denmark,デンマーク,DK,DNK,208,5792.203,5813.302
+Estonia,Estonia,Estonia,エストニア,EE,EST,233,1326.539,1325.188
+Faroe Islands,Faroe Islands,Faroe Islands (the),フェロー諸島,FO,FRO,234,48.865,49.053
+Finland,Finland,Finland,フィンランド,FI,FIN,246,5540.718,5548.361
+Iceland,Iceland,Iceland,アイスランド,IS,ISL,352,341.25,343.36
+Ireland,Ireland,Ireland,アイルランド,IE,IRL,372,4937.796,4982.904
+Isle of Man,Isle of Man,Isle of Man,マン島,IM,IMN,833,85.032,85.41
+Latvia,Latvia,Latvia,ラトビア,LV,LVA,428,1886.202,1866.934
+Lithuania,Lithuania,Lithuania,リトアニア,LT,LTU,440,2722.291,2689.862
+Norway,Norway,Norway,ノルウェー,NO,NOR,578,5421.242,5465.629
+Sweden,Sweden,Sweden,スウェーデン,SE,SWE,752,10099.27,10160.159
+United Kingdom,United Kingdom,United Kingdom of Great Britain and Northern Ireland (the),英国,GB,GBR,826,67886.004,68207.114
+Albania,Albania,Albania,アルバニア,AL,ALB,8,2877.8,2872.934
+Andorra,Andorra,Andorra,アンドラ,AD,AND,20,77.265,77.354
+Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ,BA,BIH,70,3280.815,3263.459
+Croatia,Croatia,Croatia,クロアチア,HR,HRV,191,4105.268,4081.657
+Gibraltar,Gibraltar,Gibraltar,ジブラルタル,GI,GIB,292,33.691,33.691
+Greece,Greece,Greece,ギリシャ,GR,GRC,300,10423.056,10370.747
+Vatican,Holy See,Holy See (the),バチカン,VA,VAT,336,0.809,0.812
+Italy,Italy,Italy,イタリア,IT,ITA,380,60461.828,60367.471
+Malta,Malta,Malta,マルタ,MT,MLT,470,441.539,442.79
+Montenegro,Montenegro,Montenegro,モンテネグロ,ME,MNE,499,628.062,628.051
+Macedonia,North Macedonia,North Macedonia,北マケドニア,MK,MKD,807,2083.38,2082.662
+Portugal,Portugal,Portugal,ポルトガル,PT,PRT,620,10196.707,10167.923
+San Marino,San Marino,San Marino,サンマリノ,SM,SMR,674,33.938,34.01
+Republic of Serbia,Serbia,Serbia,セルビア,RS,SRB,688,8737.37,8697.547
+Slovenia,Slovenia,Slovenia,スロベニア,SI,SVN,705,2078.932,2078.723
+Spain,Spain,Spain,スペイン,ES,ESP,724,46754.783,46745.211
+Austria,Austria,Austria,オーストリア,AT,AUT,40,9006.4,9043.072
+Belgium,Belgium,Belgium,ベルギー,BE,BEL,56,11589.616,11632.334
+France,France,France,フランス,FR,FRA,250,65273.512,65426.177
+Germany,Germany,Germany,ドイツ,DE,DEU,276,83783.945,83900.471
+Liechtenstein,Liechtenstein,Liechtenstein,リヒテンシュタイン,LI,LIE,438,38.137,38.254
+Luxembourg,Luxembourg,Luxembourg,ルクセンブルク,LU,LUX,442,625.976,634.814
+Monaco,Monaco,Monaco,モナコ,MC,MCO,492,39.244,39.52
+Netherlands,Netherlands,Netherlands (the),オランダ,NL,NLD,528,17134.873,17173.094
+Switzerland,Switzerland,Switzerland,スイス,CH,CHE,756,8654.618,8715.494
+Bermuda,Bermuda,Bermuda,英領バミューダ諸島,BM,BMU,60,62.273,62.092
+Canada,Canada,Canada,カナダ,CA,CAN,124,37742.157,38067.913
+Greenland,Greenland,Greenland,グリーンランド,GL,GRL,304,56.772,56.868
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,サンピエール島・ミクロン島,PM,SPM,666,5.795,5.771
+United States of America,United States of America,United States of America (the),米国,US,USA,840,331002.647,332915.074
