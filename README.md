@@ -15,3 +15,7 @@ all data : as of Jan 1, 2021
 ### <li>iso_code.csv</li><br>
 source : <a href='https://www.iso.org/obp/ui/#search'>ISO 3166 Country Code</a><br>
 data retrieved : Sep 8, 2021
+<br>
+### <li>FIPS_code.csv</li><br>
+source : <a href='https://www.geodatasource.com/resources/tutorials/international-country-code-fips-versus-iso-3166/'>International Country Code, FIPS versus ISO 3166, GeoDataSource</a><br>
+data retrieved : Sep 11, 2021
