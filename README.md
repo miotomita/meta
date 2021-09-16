@@ -22,5 +22,5 @@ source : <a href='https://www.geodatasource.com/resources/tutorials/internationa
 data retrieved : Sep 11, 2021
 ### <li>MOFA_code.csv</li>
 source : Ministry of Foreign Affairs<br>
-<a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country ; </a><a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area; </a><a fref='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
+<a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country ; </a><a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area; </a><a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
 data retrieved : Sep 16, 2021
