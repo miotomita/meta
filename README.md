@@ -21,5 +21,5 @@ data retrieved : Sep 8, 2021
 source : <a href='https://www.geodatasource.com/resources/tutorials/international-country-code-fips-versus-iso-3166/'>International Country Code, FIPS versus ISO 3166, GeoDataSource</a><br>
 data retrieved : Sep 11, 2021
 ### <li>MOFA_code.csv</li>
-source : Ministry of Foreign Affairs, i)<a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country</a> ii)<a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area</a> iii)<a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
+source : Ministry of Foreign Affairs, 1) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country</a> 2) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area</a> 3) <a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
 data retrieved : Sep 16, 2021
