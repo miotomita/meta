@@ -1,5 +1,22 @@
 # meta
 
+## countries_ver2
+### <li>countries_ver2.csv</li>
+#### source : ISO, GENC, FIPS, UN, WB, MOFA<br>
+#### population:<br>
+source#1: World Bank 2020<br>
+source#2: United Nations World Population Prospect 2019, estimate for 2021, medium variant<br>
+source#3: CIA World Factbook<br>
+source#4: official stats, FT meta data<br>
+#### code_3digit:<br>
+source#1: ISO3<br>
+source#2: code_GENC(3digit)<br>
+source#3: FIPS<br>
+source#4: code_FT<br>
+source#5: numeric_UN<br>
+source#6: code_OWID<br>
+source#7: misc(NK1~7, FT1)<br>
+<br>
 ## population
 ### <li>population_UN.csv</li>
 population in thousands<br>
