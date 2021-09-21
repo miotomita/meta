@@ -16,7 +16,11 @@ source#3: FIPS<br>
 source#4: code_FT<br>
 source#5: numeric_UN<br>
 source#6: code_OWID<br>
-source#7: misc(NK1~7, FT1)<br>
+source#7: misc(NK1~7, FT1,OWID_REG1)<br>
+#### region:<br>
+source#1: MOFA<br>
+source#2: UN<br>
+source#3: categorized by locations<br>
 <br>
 ## population
 ### <li>population_UN.csv</li>
