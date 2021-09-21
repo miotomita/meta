@@ -2,7 +2,7 @@
 
 ## countries_ver2
 ### <li>countries_ver2.csv</li>
-#### source : ISO, GENC, FIPS, UN, WB, MOFA<br>
+#### source : ISO, GENC, FIPS, UN, WB, MOFA, Nikkei Data Visual Team, FT-meta, Owid-meta & Covid data-set<br>
 #### population:<br>
 source#1: World Bank 2020<br>
 source#2: United Nations World Population Prospect 2019, estimate for 2021, medium variant<br>
