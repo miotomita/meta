@@ -1,7 +1,7 @@
 # meta
 
-## countries_ver2
-### <li>countries_ver2.csv</li>
+## countries_meta
+### <li>countries_meta.csv</li>
 #### source : ISO, GENC, FIPS, UN, WB, MOFA, Nikkei Data Visual Team, FT-meta, Owid-meta & Covid data-set<br>
 #### population:<br>
 source#1: World Bank 2020<br>
@@ -45,3 +45,8 @@ data retrieved : Sep 11, 2021
 ### <li>MOFA_code.csv</li>
 source : Ministry of Foreign Affairs, 1) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country</a> 2) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area</a> 3) <a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
 data retrieved : Sep 16, 2021
+## Nikkei 
+### <li>countries.csv</li>
+source : <a href='https://github.com/Nikkei-Visual-Data-Journalism/nikkei-country/blob/main/countries.csv'>Nikkei-Visual-Data-Journalism</a><br>
+data retrieved : Sep 22, 2021
+<br>
