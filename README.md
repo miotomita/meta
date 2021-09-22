@@ -22,6 +22,13 @@ source#1: MOFA<br>
 source#2: UN<br>
 source#3: categorized by locations<br>
 <br>
+</a><br>
+data retrieved : Sep 16, 2021
+#### Nikkei 
+source : >Nikkei-Visual-Data-Journalism, <a href='https://github.com/Nikkei-Visual-Data-Journalism/nikkei-country/blob/main/countries.csv'>countries.csv</a><br>
+data retrieved : Sep 22, 2021
+<br>
+
 ## population
 ### <li>population_UN.csv</li>
 population in thousands<br>
@@ -43,10 +50,4 @@ data retrieved : Sep 8, 2021
 source : <a href='https://www.geodatasource.com/resources/tutorials/international-country-code-fips-versus-iso-3166/'>International Country Code, FIPS versus ISO 3166, GeoDataSource</a><br>
 data retrieved : Sep 11, 2021
 ### <li>MOFA_code.csv</li>
-source : Ministry of Foreign Affairs, 1) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country</a> 2) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area</a> 3) <a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region </a><br>
-data retrieved : Sep 16, 2021
-## Nikkei 
-### <li>countries.csv</li>
-source : <a href='https://github.com/Nikkei-Visual-Data-Journalism/nikkei-country/blob/main/countries.csv'>Nikkei-Visual-Data-Journalism</a><br>
-data retrieved : Sep 22, 2021
-<br>
+source : Ministry of Foreign Affairs, 1) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/country.pdf'>country</a> 2) <a href='https://www.ezairyu.mofa.go.jp/html/opendata/support/area.pdf'>area</a> 3) <a href='https://www.mofa.go.jp/mofaj/area/index.html'>MOFA website->Coutry/Region 
